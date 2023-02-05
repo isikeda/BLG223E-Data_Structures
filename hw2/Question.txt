@@ -1,0 +1,12 @@
+Both keys are pangrams which means a meaningful sentence that includes all letters of an alphabet of a language. 
+You can see the keys and their sorted versions below, they include all 26 letters. Thus, when the program uses these keys, it can encode every password.
+I think this is the specific thing that you are looking for. 
+
+key1:
+THE_QUICK_BROWN_FOX_JUMPS_OVER_A_LAZY_DOG
+AABCDEEFGHIJKLMNOOOOPQRRSTUUVWXYZ________
+
+key2:
+THE_FIVE_BOXING_WIZARDS_JUMP_QUICKLY
+ABCDEEFGHIIIIJKLMNOPQRSTUUVWXYZ_____
+
